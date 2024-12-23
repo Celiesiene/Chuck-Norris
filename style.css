@@ -16,12 +16,13 @@
 
 p{
     position: absolute;
-    bottom: 150px;
+    bottom: 50px;
     font-size: 2rem;
     width: 700px;
     text-wrap: wrap;
     height: 150px;
     overflow: auto;
+
 }
 
 button{
